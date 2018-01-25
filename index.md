@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="Mine Your Own Business.png" alt="Mine Your Own Business">
 
-![useful image]({{ site.url }}/assets/Mine Your Own Business.png)
+![Mine Your Own Business]({{ site.url }}/assets/Mine Your Own Business.png)
 
 ### Markdown
 
