@@ -6,7 +6,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="Mine Your Own Business.png" alt="Mine Your Own Business">
 
+
+
+
 ![Mine Your Own Business]({{ site.url }}/assets/Mine Your Own Business.png)
+
+<table style="width:100%">
+  <tr>
+    <th>Mine Your Own Business</th>
+    <td><img src="Mine Your Own Business.png" alt="Mine Your Own Business"></td>
+    <th>Skypunk</th>
+    <th>Greenhouse Invaders</th>
+  </tr>
+  <tr>
+    <th>Okeanos</th>
+    <th>Star Wars Battles</th>
+    <th>Unreal Engine 4 Project</th
+  </tr>
+</table>
+  
+  
+  
+  
 
 ### Markdown
 
