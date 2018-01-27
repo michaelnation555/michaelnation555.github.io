@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <table style="width:100%">
   <tr>
     <th>Mine Your Own Business</th>
-    <td><img src="Mine Your Own Business.png" alt="Mine Your Own Business"></td>
+    <img src="Mine Your Own Business.png" alt="Mine Your Own Business">
     <th>Skypunk</th>
     <th>Greenhouse Invaders</th>
   </tr>
