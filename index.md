@@ -6,6 +6,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="Mine Your Own Business.png" alt="Mine Your Own Business">
 
+
+
+
+![Mine Your Own Business]({{ site.url }}/assets/Mine Your Own Business.png)
+
+<table style="width:100%">
+  <tr>
+    <th>Mine Your Own Business</th>
+    <img src="Mine Your Own Business.png" alt="Mine Your Own Business">
+    <th>Skypunk</th>
+    <th>Greenhouse Invaders</th>
+  </tr>
+  <tr>
+    <th>Okeanos</th>
+    <th>Star Wars Battles</th>
+    <th>Unreal Engine 4 Project</th
+  </tr>
+</table>
+  
+  
+  
+  
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
