@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            table-layout: fixed;
+        }
+    </style>
+</head>
+<title>Michael Nation</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    html, body, h2, h3, h4, h5, h6 {
+        font-family: "Roboto", sans-serif
+    }
+
+    h1 {
+        font-family: "Roboto", sans-serif;
+        color: white
+    }
+</style>
+<body class="w3-light-grey">
+
+    <!-- Page Container -->
+    <div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+        <!-- The Grid -->
+        <div class="w3-row-padding">
+
+            <!-- Left Column -->
+            <div class="w3-third">
+
+                <div class="w3-white w3-text-grey w3-card-4">
+                    <div class="w3-display-container">
+                        <img src="assets/Profile Picture.png" style="width:100%" alt="Avatar">
+                        <div class="w3-display-bottomleft w3-container w3-text-black">
+                            <h1>Michael Nation</h1>
+                        </div>
+                    </div>
+                    <div class="w3-container">
+                        <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-blue"></i>Game Developer</p>
+                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue"></i>Vancouver, BC</p>
+                        <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-blue"></i>michael_nation555@hotmail.com</p>
+                        <hr>
+
+                        <!--USE THIS FOR EXPERIENCE BARS....  <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:24px;width:75%"></div>
+          </div>-->
+          
+          <p><b>Languages</b></p>
+          <p>C#, C++, Java, Python</p>
+          <p>HTML, CSS, Javascript, PHP</p>
+          <p>SQL</p>
+          <p><b>Tools</b></p>
+          <p>Git</p>
+          <p>Microsoft Visual Studio</p>
+          <p>Unity</p>
+          <p>Unreal Engine 4</p>
+          <br>
+
+                    </div>
+                </div><br>
+
+                <!-- End Left Column -->
+            </div>
+
+            <!-- Right Column -->
+            <div class="w3-twothird">
+
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2>BCIT Graduation Project</h2>
+                    <h3>Superhero Unreal Engine 4 Game</h3>
+
+                    <table style="width:100%">
+                        <tr>
+                            <p>
+                                The project is a 3rd person superhero action game created using the Unreal Engine 4. Players can use the Mouse & Keyboard or an Xbox 360 controller to control their character in the world. The player character will have multiple abilities such as super speed, jumping, and flying to make traversing the city feel seamless. The game’s world will be a procedurally generated modern day city, containing several streets with roads, intersections, and large office buildings that the player will be able to physically enter. Any time the player starts a new game the world will be regenerated and different from their last play session. In addition, the player will also have combative abilities including melee attacks, and ranged weapons that can be found throughout the city and picked up. The game will also contain an A.I. enemy component that will guard the city, and attack the player on sight. The A.I. component will be created using a behaviour tree consisting of Sequence and Selector nodes which will guide the A.I. decision making. Finally the player will be able to customize their character through different costumes, colors, and headgear.
+                            </p>
+                        </tr>
+                    </table>
+
+                    <table style="width:100%">
+                        <h3>Screenshots</h3>
+                        <tr>
+                            <th><a href="assets/Superhero Screenshot 1.png" target="_blank"><img src="assets/Superhero Screenshot 1.png" alt="SkyPunk" height="25%" width="100%"></a></th>
+                            <th><a href="assets/Superhero Screenshot 2.png" target="_blank"><img src="assets/Superhero Screenshot 2.png" alt="SkyPunk" height="25%" width="100%"></a></th>
+                        </tr>
+                        <tr>
+                            <th><a href="assets/Superhero Screenshot 3.png" target="_blank"><img src="assets/Superhero Screenshot 3.png" alt="SkyPunk" height="25%" width="100%"></a></th>
+                            <th><a href="assets/Superhero Screenshot 4.png" target="_blank"><img src="assets/Superhero Screenshot 4.png" alt="SkyPunk" height="25%" width="100%"></a></th>
+                        </tr>
+                    </table>
+
+                </div>
+
+                <!-- End Right Column -->
+            </div>
+
+            <!-- End Grid -->
+        </div>
+
+        <!-- End Page Container -->
+    </div>
+
+    <footer class="w3-container w3-blue w3-center w3-margin-top"></footer>
+
+</body>
+</html>
